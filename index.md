@@ -48,15 +48,11 @@ Coding POST, PUT, and DELETE code module and REST API code.
 ## Project Deliverables:
 
 
-### 1. p4-data.js
-[p4-data.js](p4-data.js)
+### 1. [p4-data.js](p4-data.js)
 
-### 2. p4-module.js
-[p4-module.js](p4-module.js)
+### 2. [p4-module.js](p4-module.js)
 
-### 3. p4-server.js
-[p4-server.js](p4-server.js)
+### 3. [p4-server.js](p4-server.js)
 
-### 4. package.json
-[package.json](package.json)
+### 4. [package.json](package.json)
 
