@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+# Project 4
 
-You can use the [editor on GitHub](https://github.com/sierrabakerr/cit281-p4/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[RETURN TO HOMEPAGE](https://sierrabakerr.github.io/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Learning Objectives:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### After completing this project, you will:
 
-```markdown
-Syntax highlighted code block
+Gain experience interpreting functional descriptions and specifications to complete an assignment
 
-# Header 1
-## Header 2
-### Header 3
+Gain experience breaking a project into manageable components
 
-- Bulleted
-- List
+Gain experience writing and executing non-web server Node.js JavaScript code using VSCode
 
-1. Numbered
-2. List
+Practice creating and using code modules
 
-**Bold** and _Italic_ and `Code` text
+Practice using modern JavaScript syntax
 
-[Link](url) and ![Image](src)
-```
+Gain experience writing and executing Node.js REST API server using VSCode
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Gain experience using Fastify with the GET verb, routes, and route parameters
 
-### Jekyll Themes
+Gain experience working with static data
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sierrabakerr/cit281-p4/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Gain experience testing code module without using a web server
 
-### Support or Contact
+Gain experience using Postman to test web server routes
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Gain experience working with JSON
+
+Extra credit: Gain experience using Fastify with POST, PUT, and DELETE verbs
+
+
+## Overview:
+
+You will be creating a REST API that works with a "data" source of questions and answers. You will create all of the code to work with the data source using a code module, and test the code module code using provided testing code. You will also create a Node.js REST API to handle the GET verb.
+
+## Extra credit: 
+This project has many extra credit opportunities (40 points!); however, you must attempt all required elements before any extra credit points will be awarded.
+
+Deep clone of the data in the getQuestionsAnswers() function.
+
+Handling potential bad or missing data in the REST API calls when coding the code module functions.
+
+Coding POST, PUT, and DELETE code module and REST API code.
+
+## Project Deliverables:
+
+### 1. p4-data.js
+[p4-data.js](p4-data.js)
+
+### 2. p3-server.js
+[p3-server.js](p3-server.js)
+
+### 3. p4-module.js
+[p4-module.js](p4-module.js)
+
+### 4. p4-server.js
+[p4-server.js](p4-server.js)
+
+
