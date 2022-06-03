@@ -1,3 +1,7 @@
+/*
+    CIT 281 Project 4
+    Name: Sierra Baker
+*/
 // Part 3. Create data file
 // Question and answer data array
 const data = [
