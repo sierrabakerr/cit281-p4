@@ -46,10 +46,7 @@ Handling potential bad or missing data in the REST API calls when coding the cod
 Coding POST, PUT, and DELETE code module and REST API code.
 
 ## Project Deliverables:
-(5) p4-data.js
-(40) p4-module.js
-(45) p4-server.js
-(5) package.json
+
 
 ### 1. p4-data.js
 [p4-data.js](p4-data.js)
