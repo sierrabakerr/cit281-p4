@@ -1,3 +1,7 @@
+/*
+    CIT 281 Project 4
+    Name: Sierra Baker
+*/
 // Part 4: Import data into code module
 let { data } = require("./p4-data.js");
 
