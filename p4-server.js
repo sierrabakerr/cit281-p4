@@ -1,3 +1,7 @@
+/*
+    CIT 281 Project 4
+    Name: Sierra Baker
+*/
 const fs = require("fs");
 const { workerData } = require("worker_threads");
 const fastify = require("fastify")();
